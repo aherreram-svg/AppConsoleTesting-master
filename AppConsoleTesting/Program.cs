@@ -11,5 +11,3 @@ Console.WriteLine("Esto es una prueba 4 Alberto Herrera ");
 Console.WriteLine("Esto es una prueba 5 Alberto Herrera ");
 
 Console.WriteLine("Esto es una prueba 2 Alberto Herrera ");
-Console.WriteLine("Esto es una prueba 3 Alberto Herrera ");
-
